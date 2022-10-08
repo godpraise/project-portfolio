@@ -1,0 +1,17 @@
+body{
+    background: wheat;
+}
+.list{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.computer{
+    position: fixed;
+    right: 150px;
+    top: 200px;
+    width: 40%;
+    height: 50%;
+}
