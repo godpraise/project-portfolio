@@ -1,0 +1,47 @@
+body{
+    background: wheat;
+}
+
+.name{
+    font-size: 50px;
+    position: fixed;
+    left: 150px;
+    top: 200px;
+    line-height: 1em;
+}
+
+.tel{
+    text-align: left;
+    position: fixed;
+    right: 100px;
+    bottom : 30px;
+    font-size: 20px;
+    line-height: 2em;
+}
+
+span{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+hr{
+    background-color: black;
+    height: 3px;
+    position: relative;
+    left: 0px;
+    top: 500px;
+}
+.page{
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    width: 50px;
+    height: 50px;
+}
+.computer{
+    position: fixed;
+    right: 200px;
+    top: 100px;
+    width: 40%;
+    height: 50%;
+}
